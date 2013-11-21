@@ -3,7 +3,7 @@ ORIG_PN="libXfixes"
 inherit cross xorg
 
 NAME="mingw64-i686-libXfixes"
-VERSION=5.0
+VERSION=5.0.1
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="X.Org Xfixes library for Win32 toolchain"
